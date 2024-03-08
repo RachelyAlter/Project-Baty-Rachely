@@ -1,0 +1,13 @@
+﻿global using System;
+global using System.Collections.Generic;
+global using System.Linq;
+global using System.Text;
+global using System.Threading.Tasks;
+global using System.Configuration;
+global using Microsoft.Extensions.Configuration;
+global using Dal.DalApi;
+global using Dal.Dalimplementaion;
+global using Dal.Do;
+global using Microsoft.Extensions.DependencyInjection;
+global using System.Text.Json.Serialization;
+global using Microsoft.EntityFrameworkCore;

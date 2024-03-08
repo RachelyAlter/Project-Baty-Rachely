@@ -1,0 +1,483 @@
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Server.exe
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Server.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Server.exe
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Server.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Server\obj\Debug\net7.0\ref\Server.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.Development.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.exe
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.deps.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Core.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Identity.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Humanizer.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.CodeDom.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Memory.Data.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.pack.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.build.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.development.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\refint\Server.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\ref\Server.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.Development.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.exe
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.deps.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Core.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Identity.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Humanizer.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.CodeDom.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Memory.Data.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.pack.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.build.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.development.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\refint\Server.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\ref\Server.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.Development.json
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.json
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.exe
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.deps.json
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.pdb
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Core.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Identity.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Humanizer.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.CodeDom.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Memory.Data.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.pdb
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.pdb
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.pack.json
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.build.json
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.development.json
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.dll
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\refint\Server.dll
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.pdb
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+D:\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\ref\Server.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.Development.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\appsettings.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.exe
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.deps.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.runtimeconfig.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Server.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Core.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Azure.Identity.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Humanizer.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.AspNetCore.OpenApi.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Bcl.AsyncInterfaces.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Data.SqlClient.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Design.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.Relational.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.EntityFrameworkCore.SqlServer.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Extensions.DependencyModel.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Identity.Client.Extensions.Msal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Abstractions.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.JsonWebTokens.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Logging.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.IdentityModel.Tokens.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.OpenApi.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.SqlServer.Server.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Microsoft.Win32.SystemEvents.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Mono.TextTemplating.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.Swagger.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.CodeDom.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Configuration.ConfigurationManager.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Drawing.Common.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.IdentityModel.Tokens.Jwt.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Memory.Data.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Runtime.Caching.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Cryptography.ProtectedData.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Security.Permissions.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\System.Windows.Extensions.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Data.SqlClient.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Bl.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\Dal.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.AssemblyReference.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfoInputs.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.AssemblyInfo.cs
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CoreCompileInputs.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cs
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.MvcApplicationPartsAssemblyInfo.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.Server.Microsoft.AspNetCore.StaticWebAssets.props
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.build.Server.props
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildMultiTargeting.Server.props
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets\msbuild.buildTransitive.Server.props
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.pack.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.build.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\staticwebassets.development.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\scopedcss\bundle\Server.styles.css
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.csproj.CopyComplete
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\refint\Server.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\Server.genruntimeconfig.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Server\obj\Debug\net7.0\ref\Server.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\AutoMapper.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\AutoMapper.Extensions.EnumMapping.dll
+D:\‏‏RabinskyPhotography\Server\bin\Debug\net7.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll

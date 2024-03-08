@@ -1,0 +1,84 @@
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Dal\obj\Debug\net7.0\ref\Dal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.deps.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\refint\Dal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\ref\Dal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.deps.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\refint\Dal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\ref\Dal.dll
+D:\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.deps.json
+D:\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+D:\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.dll
+D:\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.pdb
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.dll
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\refint\Dal.dll
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.pdb
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+D:\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\ref\Dal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.deps.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.runtimeconfig.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\bin\Debug\net7.0\Dal.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.AssemblyReference.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfoInputs.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.AssemblyInfo.cs
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.csproj.CoreCompileInputs.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\refint\Dal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\Dal.genruntimeconfig.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Dal\obj\Debug\net7.0\ref\Dal.dll

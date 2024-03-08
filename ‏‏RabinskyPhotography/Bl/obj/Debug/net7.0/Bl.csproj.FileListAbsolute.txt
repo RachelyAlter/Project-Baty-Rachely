@@ -1,0 +1,90 @@
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.deps.json
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\ref\Bl.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\bin\Debug\net7.0\Bl.deps.json
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\bin\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\bin\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\Desktop\‏‏RabinskyPhotography - עותק\Bl\obj\Debug\net7.0\ref\Bl.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.deps.json
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\refint\Bl.dll
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.pdb
+H:\הפרויקט\ט אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\ref\Bl.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.deps.json
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\refint\Bl.dll
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.pdb
+C:\Users\אלתר רחל\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\ref\Bl.dll
+D:\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.deps.json
+D:\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.dll
+D:\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.pdb
+D:\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.dll
+D:\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.pdb
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.dll
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\refint\Bl.dll
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.pdb
+D:\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\ref\Bl.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.deps.json
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Bl.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\bin\Debug\net7.0\Dal.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.AssemblyReference.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.GeneratedMSBuildEditorConfig.editorconfig
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfoInputs.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.AssemblyInfo.cs
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CoreCompileInputs.cache
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.csproj.CopyComplete
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\refint\Bl.dll
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\Bl.pdb
+H:\הפרויקט\יד אדר א\‏‏RabinskyPhotography\Bl\obj\Debug\net7.0\ref\Bl.dll
